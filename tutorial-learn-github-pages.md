@@ -206,6 +206,7 @@ On your own, here are some of the tasks you can do to continue enhancing your si
 2. Customize the site configuration in `_config.yml`.
 3. Experiment with other themes, including the automatic site generation tools under the repository settings.
 4. Make a local copy of the repository and learn how to use the command-line interface to modify the files.
+5. Improve the original repository by [making a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) from enhancements in your fork.
 
 _Tip: If you want to remove your GitHub Pages site or delete the repository, open the repository settings._
 
@@ -213,7 +214,7 @@ _Tip: If you want to remove your GitHub Pages site or delete the repository, ope
 
 Now that you are familiar with using GitHub, you can use this same workflow to collaborate on the many open-source projects that are hosted there.
 
-Documentation can be an easy way to get started contributing to a project. For example, if you find a typographic error on a documentation page, you can fork the repository and suggest a fix. In fact, if you click the `Edit this file` button on the file you want to change, GitHub automatically creates a fork for you and opens a pull request on the original project.
+Documentation can be an easy way to get started contributing to a project. For example, if you find a typographic error on a documentation page, you can fork the repository and suggest a fix. In fact, if you click the `Edit this file` button on the file you want to change, GitHub automatically creates a fork for you and opens a pull request on the original project. 
 
 If you find a bug or have suggestions for a project but are unable or do not want to fix them yourself, report an _issue_ in the repository to notify the contributors. You can also use the issues list to find known problems that you may be able to assist with, which are sometimes tagged with `help wanted`.
 
