@@ -1,6 +1,6 @@
 # My GitHub Pages site
 
-This page was created from the tutorial in https://github.com/mapzen/write-the-docs at the Write the Docs SF meeting.
+This page was created from the tutorial in the [mapzen/write-the-docs repository](https://github.com/mapzen/write-the-docs) at the Write the Docs SF meeting.
 
 ## General workflow for making a website with GitHub Pages
 
