@@ -20,3 +20,5 @@ Follow these general instructions to make a website with _GitHub Pages_.
 7. Open browser to the page.
 
 Get more details in the [GitHub Pages documentation](https://help.github.com/categories/github-pages-basics/).
+
+![this is an image](https://mapzen.com/common/styleguide/images/mapzen-logo-icon@2x.png)
