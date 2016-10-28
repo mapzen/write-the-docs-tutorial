@@ -1,6 +1,5 @@
 ---
-layout:default
-title:Home
+layout: default
+title: Home
 ---
-
-Helloooooo world!
+THis is some other text that I"m putting in here. 
