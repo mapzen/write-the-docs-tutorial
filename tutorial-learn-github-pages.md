@@ -28,7 +28,7 @@ You can review the [GitHub Glossary](https://help.github.com/articles/github-glo
 
 ## Copy the files to your account
 
-To get started, you need to make a copy of the repository containing the tutorial data files. You do not have write permissions the source version, but making a copy into your own GitHub account allows you to edit them. This is known as creating a _fork_, or _forking a repository_.
+To get started, you need to make a copy of the repository containing the tutorial data files. You do not have write permissions for the source version, but making a copy into your own GitHub account allows you to edit them. This is known as creating a _fork_, or _forking a repository_.
 
 1. Open a browser to https://github.com and sign in with your account.
 2. Navigate to https://github.com/mapzen/write-the-docs, which contains some files to get you started.
