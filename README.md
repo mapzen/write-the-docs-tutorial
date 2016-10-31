@@ -37,6 +37,10 @@ Training classes from GitHub
 - https://services.github.com/training/
 - Includes free self-paced classes and webinars
 
+GitHub branching and flow diagrams
+- Octopus Git branch: http://imgur.com/gallery/YG8In8X/new
+- GitHub Flow: https://guides.github.com/introduction/flow/
+
 Examples of documentation repositories
 
 - CircleCI has a repository with only documentation-related files: https://github.com/circleci/circleci-docs
