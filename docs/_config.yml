@@ -2,9 +2,6 @@
 title: My website
 description: A website made with GitHub Pages
 
-# Set the production website URL when previewing
-baseurl: "/write-the-docs"
-
 # Markdown parser and theme settings
 markdown: kramdown
 theme: minima
