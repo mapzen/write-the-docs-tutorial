@@ -1,12 +1,12 @@
-# Write the Docs SF workshop
+# Tutorial:Learn GitHub by building a website
 
-This repository contains the files used in the GitHub for Documentation workshop from [Write the Docs - San Francisco](https://www.meetup.com/Write-the-Docs-SF/events/234679051/) on October 27, 2016.
+This repository contains the files used with the GitHub tutorial at https://mapzen.com/documentation/guides/github-tutorial/.
 
-Presenter: Rhonda Glennon, [@rmglennon](https://github.com/rmglennon)
-
-To work through the tutorial presented in the workshop, start with [tutorial-learn-github-pages.md](tutorial-learn-github-pages.md).
+The materials were originally presented at the GitHub for Documentation workshop from [Write the Docs - San Francisco](https://www.meetup.com/Write-the-Docs-SF/events/234679051/) on October 27, 2016. The tutorial was later adapted into Mapzen's documentation set.
 
 ## Workshop summary: GitHub for Documentation
+
+Presenter: Rhonda Glennon, [@rmglennon](https://github.com/rmglennon)
 
 GitHub enables people to collaborate on projects, and many organizations use it for managing both software code and documentation. At this Write the Docs, you will get started with GitHub by applying its tools to building a documentation website.
 
