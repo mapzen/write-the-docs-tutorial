@@ -1,8 +1,10 @@
-# Tutorial:Learn GitHub by building a website
+# Tutorial: Learn GitHub by building a website
 
-This repository contains the files used with the GitHub tutorial at https://mapzen.com/documentation/guides/github-tutorial/.
+This repository contains the files used with Mapzen's GitHub tutorial at https://mapzen.com/documentation/guides/github-tutorial/.
 
 The materials were originally presented at the GitHub for Documentation workshop from [Write the Docs - San Francisco](https://www.meetup.com/Write-the-Docs-SF/events/234679051/) on October 27, 2016. The tutorial was later adapted into Mapzen's documentation set.
+
+You can follow the tutorial using the instructions at https://mapzen.com/documentation/guides/github-tutorial/.
 
 ## Workshop summary: GitHub for Documentation
 
