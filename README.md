@@ -2,11 +2,11 @@
 
 This repository contains the files used with Mapzen's GitHub tutorial at https://mapzen.com/documentation/guides/github-tutorial/.
 
-The materials were originally presented at the GitHub for Documentation workshop from [Write the Docs - San Francisco](https://www.meetup.com/Write-the-Docs-SF/events/234679051/) on October 27, 2016. The tutorial was later adapted into Mapzen's documentation set.
+## GitHub for Documentation
 
-You can follow the tutorial using the instructions at https://mapzen.com/documentation/guides/github-tutorial/.
+This tutorial was originally presented at the GitHub for Documentation workshop from [Write the Docs - San Francisco](https://www.meetup.com/Write-the-Docs-SF/events/234679051/) on October 27, 2016. The tutorial was later adapted into Mapzen's documentation set.
 
-## Workshop summary: GitHub for Documentation
+### Original workshop information
 
 Presenter: Rhonda Glennon, [@rmglennon](https://github.com/rmglennon)
 
