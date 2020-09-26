@@ -3,7 +3,7 @@ layout:default
 title: Home
 ---
 
-# Shane's GitHub Pages site
+# Shane's cool GitHub Pages site
 
 This page was created from the tutorial in the [mapzen/write-the-docs-tutorial repository](https://github.com/mapzen/write-the-docs-tutorial).
 
